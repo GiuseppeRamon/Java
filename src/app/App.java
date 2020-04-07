@@ -13,7 +13,7 @@ public class App {
         contas.add(guilherme);
         contas.add(matheus);
         contas.add(new ContaCorrente(9999));
-        jsjsjsjjsj
+    
 
         System.out.println(contas.size());
         contas.forEach((conta)->System.out.println(conta.getSaldo()));
